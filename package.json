@@ -19,10 +19,10 @@
     "watch": "npm-watch",
     "lint:js": "eslint src/**/*.js",
     "lint:css": "stylelint src/*/*.css",
-    "start": "webpack serve",
+    "start": "webpack server",
     "dev": "npm run start && npm run watch"
   },
-  "author": "HmyriMonah",
+  "author": "IvanovEvgenii",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
